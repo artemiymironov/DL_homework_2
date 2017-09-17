@@ -1,4 +1,4 @@
- o| O)[^ ]*?@[^ ]*(.com|.org)
+( o| O)[^ ]*?@[^ ]*(.com|.org)
 22
 	Line 5389: To: outlook.team@enron.com
 	Line 10713: To: outlook.team@enron.com
